@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  margin: 0;
+  padding: 1em 0;
+}
+* {
+  box-sizing: border-box;
+}
+.instructions {
+  max-width: 90%;
+  text-align: center;
+  margin: auto
+}
